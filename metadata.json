@@ -1,0 +1,8 @@
+{
+  "name": "Health Guide",
+  "description": "A friendly conversational assistant that helps you identify the right medical specialist for your symptoms. strictly informational.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
